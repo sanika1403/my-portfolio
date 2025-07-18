@@ -4,7 +4,10 @@
 
 <img width="1339" height="611" alt="image" src="https://github.com/user-attachments/assets/0a7c4928-a885-4c03-9cb2-2fd7aa41d802" />
 
+
+
 Overview
+
 This repository hosts the source code for my personal portfolio website, which is live at https://sanikasportfolio.vercel.app/. It showcases my skills, projects, and blogs. The site is designed to give potential employers and collaborators a comprehensive view of my work and capabilities.
 
 Features
