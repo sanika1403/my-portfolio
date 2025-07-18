@@ -1,21 +1,20 @@
 # Creative Portfolio
 
-A modern and responsive creative portfolio built using [v0.dev](https://v0.dev) by Vercel.
+![Creative Portfolio Preview] https://sanikasportfolio.vercel.app/
 
-![Creative Portfolio Preview](./preview.png)
+Overview
+This repository hosts the source code for my personal portfolio website, which is live at https://sanikasportfolio.vercel.app/. It showcases my skills, projects, and blogs. The site is designed to give potential employers and collaborators a comprehensive view of my work and capabilities.
 
-## Live Demo
+Features
+Responsive Design: Optimized for all devices, ensuring usability on desktops, tablets, and mobiles.
 
-Check out the live demo: [https://v0-creative-portfolio-o7.vercel.app/](https://v0-creative-portfolio-o7.vercel.app/)
+Skills Section: Highlights my primary technical skills and proficiencies.
 
-## Features
+Projects Showcase: Direct links to live projects and their corresponding GitHub repositories.
 
-- Responsive design that works on all devices
-- Modern UI with smooth animations
-- Project showcase section
-- About me section
-- Contact information
-- Built with cutting-edge web technologies
+Blog Section: A space for sharing thoughts, tutorials, and insights.
+
+Contact Form: Simple method for visitors to reach out to me.
 
 ## Technologies Used
 
@@ -69,10 +68,6 @@ This project is configured for easy deployment on Vercel. To deploy your own ver
 4. Click "Deploy"
 
 Vercel will automatically deploy your portfolio and provide you with a live URL.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
